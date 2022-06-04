@@ -5,7 +5,7 @@ def multiple_returns(sentence):
 
     if len(sentence) == 0:
         y = None
-        z = tuple(x, y)
+        z = (x, y)
         return z
 
     else:
