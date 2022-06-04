@@ -8,6 +8,9 @@ def multiple_returns(sentence):
         z = tuple((x, y))
         return z
 
+    elif not sentence:
+        pass
+
     else:
         z = tuple((x, y))
         return z
