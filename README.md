@@ -1,6 +1,6 @@
 <h1> ALX Higher Level Programming project </h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/TPriince/alx-higher_level_programming)
+![GitHub repo size](https://img.shields.io/github/repo-size/TPriince/alx-higher_level_programming?logo=github)
 
 <h3> Currently learning Python :snake: </h3>
 <p><a href="https://peps.python.org/pep-0020/" alt="The Zen of Python" target="_blank"><b>The Zen of Python</b></a></P>
