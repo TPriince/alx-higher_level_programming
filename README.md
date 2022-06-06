@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/TPriince/alx-higher_level_programming)
 
 <h3> Currently learning Python :snake: </h3>
-<p><a href="https://peps.python.org/pep-0020/" alt="The Zen of Python" target="_blank">The Zen of Python</a></P>
+<p><a href="https://peps.python.org/pep-0020/" alt="The Zen of Python" target="_blank">The Zen of Python (<i>The Zen Commandments of Python</i>:sweat_smile:)</a></P>
 
 <div align="center">
   <img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47wqzyatd35y5pmxd6xif2hbvdar16yo70xc0oxs0y&rid=giphy.gif&ct=g" />
