@@ -6,4 +6,4 @@ def best_score(a_dictionary):
 
     else:
         biggest_scoree = max(a_dictionary)
-        return biggest_scoree
+    return biggest_scoree
