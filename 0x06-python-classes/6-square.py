@@ -74,7 +74,7 @@ class Square:
 
     def my_print(self):
         """Prints to stdout the square with the character #,
-        at the position given by the position attribute.
+        at the position given by the position attribute
         """
         if self.__size == 0:
             print()
