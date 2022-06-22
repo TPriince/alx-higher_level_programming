@@ -64,7 +64,7 @@ class SinglyLinkedList:
         return my_str[:-1]
 
     def sorted_insert(self, value):
-        """Inserts a node in a sorted linked list."""
+        """Inserts a node in a sorted linked list"""
         new_node = Node(value)
 
         if self.head is None:
