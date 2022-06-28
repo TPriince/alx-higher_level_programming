@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-Fuction that adds two integers
+0-add_integer module
+Returns the addition of two integers
 
 """
 
