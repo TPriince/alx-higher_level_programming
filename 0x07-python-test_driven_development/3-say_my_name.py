@@ -6,7 +6,7 @@ Prints a given first name and last name.
 
 
 def say_my_name(first_name, last_name=""):
-    """Function that Prints a string with
+    """Function that prints a string with
     <first_name> and <last_name>.
     """
 
