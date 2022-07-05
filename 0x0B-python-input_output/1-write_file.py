@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 1-write_file module
-Writes in a text file.
+Writes in a text file
 """
 
 
