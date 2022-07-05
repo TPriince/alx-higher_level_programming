@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 0-read_file module
-Reads from a file and prints.
+Reads from a file and prints
 """
 
 
