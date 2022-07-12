@@ -11,7 +11,8 @@ import csv
 
 
 class Base:
-    """Class with:
+    """
+    Class with:
     Private class attribute: __nb_objects
     """
 

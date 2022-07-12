@@ -15,7 +15,7 @@ class Square(Rectangle):
         - display()
         - to_dictionary()
         - update()
-    Inherits from Rectangle.
+    Inherits from Rectangle
     """
 
     def __init__(self, size, x=0, y=0, id=None):
