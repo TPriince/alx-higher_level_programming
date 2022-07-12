@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Base module
-Defines a Base class for other classes in the project.
+Defines a Base class for other classes in the project
 """
 
 

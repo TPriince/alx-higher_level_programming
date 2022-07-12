@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Square module
-Create a Square class, inheriting from Rectangle.
+Create a Square class, inheriting from Rectangle
 """
 
 from models.base import Base

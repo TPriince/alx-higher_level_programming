@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Rectangle module
-Create a Rectangle class, inheriting from Base.
+Create a Rectangle class, inheriting from Base
 """
 
 import json
