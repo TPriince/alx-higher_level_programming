@@ -25,4 +25,4 @@ if __name__ == '__main__':
         )
         results = cursor.fetchall()
         print(', '.join(map(lambda x: x[0], results)))
-        db_connection.close(
+        db_connection.close()
